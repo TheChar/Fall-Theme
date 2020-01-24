@@ -3,7 +3,7 @@
     "publisher": "TheChar",
     "displayName": "Fall Theme",
     "description": "A fall themed color scheme for your code editor",
-    "version": "1.1.0",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.41.0"
     },
